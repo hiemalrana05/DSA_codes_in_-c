@@ -15,9 +15,13 @@ void print_list(struct node* ptr){//passing the head node as arguement in the fu
 int main(){
     /*creating structure pointer nodes as per the user preference like in this creating 3 nodes
     head and second node and tail node where it'll be terminated*/
-    struct node* head=(struct node*)malloc(sizeof(struct node));
-    struct node* second_node=(struct node*)malloc(sizeof(struct node));
-    struct node* tail_node=(struct node*)malloc(sizeof(struct node));
+    struct node* head;
+    struct node* second_node;
+    struct node* tail_node;
+    head=NULL;//firstly head will be initiated with 0
+    head=(struct node*)malloc(sizeof(struct node));
+    second_node=(struct node*)malloc(sizeof(struct node));
+    tail_node=(struct node*)malloc(sizeof(struct node));
 
     head->data=22;//assigning values and using next pointer to next structure pointer
     head->next=second_node;
@@ -26,7 +30,7 @@ int main(){
     second_node->next=tail_node;
 
     tail_node->data=78;
-    tail_node->next=NULL;//creating only 3 nodes and after this it'll be pointing to null value
+    tail_node->next=NULL;//creating only 3 nodes and after this it'll be pointing to null value hence ending the list
 
     print_list(head);//printing list
     return 0;
