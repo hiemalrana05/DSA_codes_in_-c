@@ -2,14 +2,17 @@ hey guys..!!!
 i'm hiemal rana doing btech from VIT VELLORE cse branch
 and i found out that in c there were not that easy codes available for 
 DSA topics 
-so i'll posting codes for the same 
-and further more also 
+so i'll posting codes for the same and further more topics also 
+
 like 
 
 web dev
 backend
 data science
 and many projects also 
+
+with some good explainations of steps
+and easy codes 
 
 stay connected..!!!
 
