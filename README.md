@@ -1,14 +1,15 @@
 hey guys..!!!
-i'm hiemal rana doing btech from VIT VELLORE cse branch
-and i found out that for DSA topics there are no easy to understand codes 
-especially in c language so i'll posting codes for the same and further more topics also 
+i'm hiemal rana pursuing btech from VIT VELLORE cse branch
+and I've found out that for DSA topics there are no "easy to understand" codes 
+especially in c language so I'll be posting codes for the same and for further more topics as well...feel free to catch up with me incase of doubts in any other programming languages as well 
+I would be posting for other languages as well 
 
-like 
+for fields like 
 
 web dev
 backend
 data science
-and many projects also 
+and many other projects ideas as well 
 
 with step by step explainations 
 
